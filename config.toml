@@ -1,4 +1,7 @@
-baseurl = "https://chenghaoniu.github.io/blog"
+contentdir="content"
+layoutdir="layouts"
+publishdir="public"
+baseurl = "https://chenghaoniu.github.io/blog/public/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 canonifyurls=true
