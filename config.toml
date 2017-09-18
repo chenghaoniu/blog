@@ -1,3 +1,4 @@
-baseurl = "https://chenghaoniu.github.io/"
+baseurl = "https://chenghaoniu.github.io/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
+canonifyurls=true
